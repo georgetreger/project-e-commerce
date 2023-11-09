@@ -218,7 +218,7 @@
           }
           .hero p{
              font-size: 1.3rem;
-             color: #eee;
+             color: #088;
              font-weight: bolder;
           }
            
@@ -906,4 +906,17 @@
        .pro-1{
         width: 100%;
        }
+
+      
+      .hero h4{
+         margin: 1rem;
+         color: #f1f1f1;
+         font-weight: bolder;
+         font-size: 30px;
+      }
+      
+       .hero h1{
+        color: goldenrod;
+       }
     }
+  
