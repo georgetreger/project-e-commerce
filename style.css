@@ -213,10 +213,13 @@
           }
           .hero h4{
              margin: 1rem;
+             color: #000;
+             font-weight: bolder;
           }
           .hero p{
              font-size: 1.3rem;
-             color: var(--clr-grey-6);
+             color: #eee;
+             font-weight: bolder;
           }
            
           .btn-shop{
@@ -899,9 +902,7 @@
         text-align: start;
         padding: 0.5rem;
        }
-       .feature-box{
-      
-       }
+       
        .pro-1{
         width: 100%;
        }
